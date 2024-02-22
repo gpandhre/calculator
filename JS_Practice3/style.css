@@ -1,0 +1,12 @@
+.Bag{
+    border: none;
+    background-color: rgb(76, 160, 76);
+    padding:3px 25px 3px 25px;
+    border-radius: 10px;
+}
+.Wishlist{
+    border: 2px solid black;
+    padding: 3px 25px 3px 25px;
+    background-color: white;
+    border-radius: 10px;
+}
